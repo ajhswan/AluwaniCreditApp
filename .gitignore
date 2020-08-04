@@ -1,1 +1,3 @@
 aws-connect
+/react-ui/node_modules
+/react-ui/dist
